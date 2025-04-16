@@ -1,4 +1,6 @@
 # Collge-Management-Desktop-Application
+# Dev - Mr. Abhishek Lohot
+# Email ID - lohotabhishek16@gmail.com
 To run a NetBeans project from a ZIP file, follow these simple steps:
 
 ✅ Step-by-Step: Open and Run a NetBeans ZIP Project
