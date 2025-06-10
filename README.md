@@ -1,7 +1,7 @@
 # 🎓 College Management Desktop Application
 
-**Developer:** Mr. Abhishek Lohot  
-**Email:** lohotabhishek16@gmail.com
+# Developer:** Mr. Abhishek Lohot  
+# Email:** lohotabhishek16@gmail.com
 
 ---
 
