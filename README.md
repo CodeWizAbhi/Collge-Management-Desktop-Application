@@ -1,5 +1,5 @@
-🎓 College Management Desktop Application
-Developer: Mr. Abhishek Lohot
+<h1>🎓 College Management Desktop Application</h1>
+<h1>Developer: Mr. Abhishek Lohot</h1>
 Email: lohotabhishek16@gmail.com
 
 📦 How to Open and Run the Project in NetBeans
