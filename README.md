@@ -6,7 +6,7 @@ To run a NetBeans project from a ZIP file, follow these simple steps:
 ✅ Step-by-Step: Open and Run a NetBeans ZIP Project
 
 🔹 Step 1: Extract the ZIP</br>
-        Right-click the .zip file.</br>
+        <pre>Right-click the .zip file.</br>
         Select "Extract All..." or use any extraction tool (WinRAR, 7-Zip).</br>
         Choose a location (e.g., Documents/NetBeansProjects) and extract.</br>
 
