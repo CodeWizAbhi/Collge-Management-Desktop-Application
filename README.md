@@ -41,3 +41,12 @@ For JavaFX projects:
 
 ```bash
 --module-path "C:\path\to\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
+
+###🔹 Step 5: Clean and Build the Project
+-Right-click the project > Clean and Build
+
+-This compiles the code and checks for errors.
+
+###🔹 Step 6: Run the Project
+-Right-click the project > Run
+-The application should now start successfully.
