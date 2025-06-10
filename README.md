@@ -56,5 +56,5 @@ Right-click the project again > Run
 
 Your Java desktop application should now launch successfully!
 
-📲 Social
-Instagram: @abhishek_lohot
+<h1>📲 Social
+Instagram: @abhishek_lohot</h1>
