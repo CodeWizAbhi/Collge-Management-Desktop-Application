@@ -29,21 +29,21 @@ Follow these simple steps to set up and run the project from a ZIP file using Ne
 > 🟡 If you see "Broken Reference" warnings, continue to Step 4.
 
 ### 🔹 Step 4: Fix Broken References (If Any)
-####If the project uses JavaFX or other external libraries:
+#### If the project uses JavaFX or other external libraries:
 
 - Right-click the project > **Properties**
 - Go to **Libraries > Compile**
 - Click **Add JAR/Folder** and locate required JAR files (e.g., JavaFX SDK)
 
-####For JavaFX projects:
+#### For JavaFX projects:
 - Go to **Run > VM Options**
 - Add the following line (replace the path as per your system):
   
       --module-path "C:\path\to\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
-###🔹 Step 5: Clean and Build the Project
+### 🔹 Step 5: Clean and Build the Project
 -Right-click the project > Clean and Build
 -This compiles the code and checks for errors.
 
-###🔹 Step 6: Run the Project
+### 🔹 Step 6: Run the Project
 -Right-click the project > Run
 -The application should now start successfully.
