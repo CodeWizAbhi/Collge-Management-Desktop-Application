@@ -1,6 +1,6 @@
 <h1>🎓 College Management Desktop Application</h1>
 <h1>Developer: Mr. Abhishek Lohot</h1>
-Email: lohotabhishek16@gmail.com
+<h1>Email: lohotabhishek16@gmail.com</h1>
 
 📦 How to Open and Run the Project in NetBeans
 Follow these simple steps to set up and run the project from a ZIP file using NetBeans IDE.
