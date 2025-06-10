@@ -45,6 +45,7 @@ cpp
 Copy
 Edit
 --module-path "C:\path\to\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
+
 🔹 Step 5: Clean and Build
 Right-click on the project > Clean and Build.
 
