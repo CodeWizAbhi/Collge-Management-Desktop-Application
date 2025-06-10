@@ -39,8 +39,7 @@ For JavaFX projects:
 - Go to **Run > VM Options**
 - Add the following line (replace the path as per your system):
 
-```bash
---module-path "C:\path\to\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
+      --module-path "C:\path\to\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
 
 ###🔹 Step 5: Clean and Build the Project
 -Right-click the project > Clean and Build
