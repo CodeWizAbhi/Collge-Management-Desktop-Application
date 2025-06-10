@@ -13,22 +13,22 @@ Follow these simple steps to set up and run the project from a ZIP file using Ne
 
 ### ✅ Step-by-Step Guide
 
-#### 🔹 Step 1: Extract the ZIP File
+### 🔹 Step 1: Extract the ZIP File
 - Right-click the `.zip` file.
 - Choose **"Extract All..."** or use an extraction tool like **WinRAR** or **7-Zip**.
 - Extract the project to a folder (e.g., `Documents/NetBeansProjects`).
 
-#### 🔹 Step 2: Launch NetBeans
+### 🔹 Step 2: Launch NetBeans
 - Open **NetBeans IDE**.
 
-#### 🔹 Step 3: Open the Project
+### 🔹 Step 3: Open the Project
 - Go to **File > Open Project**.
 - Navigate to the extracted project folder.
 - Select the project (with a folder icon) and click **Open Project**.
 
 > 🟡 If you see "Broken Reference" warnings, continue to Step 4.
 
-#### 🔹 Step 4: Fix Broken References (If Any)
+### 🔹 Step 4: Fix Broken References (If Any)
 If the project uses JavaFX or other external libraries:
 
 - Right-click the project > **Properties**
